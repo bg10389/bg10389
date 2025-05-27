@@ -6,6 +6,10 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 
 ##  Core Skills
 
+- **Manufacturing & Fabrication**  
+  CNC (mill & lathe) · Manual machining · Metalworking (welding, fabrication) · 3D printing (advanced hobby + commericial and industrial machines)  
+  CAD/CAM · Design‑for‑manufacturing & rapid prototyping · Same-day prototype development
+
 - **Embedded Systems & Firmware**  
   Teensy 4.1 · ESP32 · STM32 · Raspberry Pi · LattePanda Sigma  
   UART · CAN Bus · RS‑485 · Modbus · Ethernet/UDP · SBUS/CRSF serial protocols
@@ -17,10 +21,6 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 - **Power & Motor Systems**  
   Brushless FOC controllers (VESC, ODrive) · Axial‑flux BLDC motor design  
   Lithium battery pack fabrication · serial data reverse‑engineering (DYN‑200 via RS‑485, LingYi 4WD BESC)
-
-- **Manufacturing & Fabrication**  
-  CNC (mill & lathe) · Manual machining · Metalworking (welding, fabrication) · 3D printing (engineering polymers, high‑temp hotends, PCCF, CF‑Nylon, PPS‑TF)  
-  Cycloidal drives · Design‑for‑manufacturing & rapid prototyping
 
 - **Circuit & Hardware Design**  
   PCB layout · Harness design & wiring · Power electronics · Signal processing 
@@ -53,6 +53,8 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 
 ### 6. **ESP32 SBUS‑CRSF Serial Converter**  
 – Bi‑directional protocol bridge for RC systems via lightweight firmware
+### 7. **Diy 48v Brushless E-Bike**  
+developed and built numerous personal electric vehicles, including bikes, trikes, onewheels, e-skateboards, and go karts
 
 ---
 
