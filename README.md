@@ -7,12 +7,13 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 ##  Core Skills
 
 - **Manufacturing & Fabrication**  
-  CNC (mill & lathe) · Manual machining · Metalworking (welding, fabrication) · 3D printing (advanced hobby + commericial and industrial machines)  
-  CAD/CAM · Design‑for‑manufacturing & rapid prototyping · Same-day prototype development
+  CNC (mill & lathe) · Manual machining · Metalworking (welding, fabrication) · Sheet metal fabrication · 3D printing (advanced hobby + commericial and industrial machines)  
+  CAD/CAM · Design‑for‑manufacturing & rapid prototyping · Same-day & High-speed prototype development
 
 - **Embedded Systems & Firmware**  
-  Teensy 4.1 · ESP32 · STM32 · Raspberry Pi · LattePanda Sigma  
-  UART · CAN Bus · RS‑485 · Modbus · Ethernet/UDP · SBUS/CRSF serial protocols
+  Teensy Lineup · ATMEL Processors · ESP32 · STM32 · Raspberry Pi · LattePanda Sigma  
+  UART · CAN Bus · RS‑485 · Modbus · Ethernet/UDP · SBUS/CRSF serial protocols · Signal processing & serial data reverse‑engineering (DYN‑200 via RS‑485, LingYi 4WD BESC)
+
 
 - **Autonomous & Robotics**  
   ROS 2 (C++ & Python) · OAK‑D LR vision · Ouster OS1 LiDAR · UDP networking  
@@ -20,11 +21,9 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 
 - **Power & Motor Systems**  
   Brushless FOC controllers (VESC, ODrive) · Axial‑flux BLDC motor design  
-  Lithium battery pack fabrication · serial data reverse‑engineering (DYN‑200 via RS‑485, LingYi 4WD BESC)
-
+  Lithium battery pack fabrication ·  Brushless Motor Controller Design  
 - **Circuit & Hardware Design**  
-  PCB layout · Harness design & wiring · Power electronics · Signal processing 
-
+  PCB layout + Manufacturing · Harness design & wiring (Crimping, soldering, termination) · Specialty in High-Power electronics ·
 - **Software & Automation**  
   Python (PyQt GUIs) · C++ (arduino core framework / MCU Control) · Klipper · Linux · Ros2 Gazebo
 
@@ -53,8 +52,13 @@ I’m a junior Mechatronics Engineering student at Kennesaw State University, Pr
 
 ### 6. **ESP32 SBUS‑CRSF Serial Converter**  
 – Bi‑directional protocol bridge for RC systems via lightweight firmware
-### 7. **Diy 48v Brushless E-Bike**  
+
+### 7. **Diy Personal Electric Vehicles**  
 developed and built numerous personal electric vehicles, including bikes, trikes, onewheels, e-skateboards, and go karts
+
+### 8. **Low-Cost Winding Machine**  
+Designed and manufactured a Low-cost universal rotary coil winding machine for custom Axial Flux BLDC motor development.
+
 
 ---
 
@@ -62,6 +66,7 @@ developed and built numerous personal electric vehicles, including bikes, trikes
 
 - **Undergraduate Researcher**, KSU  
   Leading a team on cost‑effective axial‑flux motor prototypes, collaborating with multidisciplinary labs on materials, thermal management, and performance testing.
+  2 Published abstracts + IMECE in-person presentation Fall 2025 (Advanced Manufacturing)
 
 - **President & Mechanical Lead**, KSU Electric Vehicle Team  
   Overseeing mechanical design, fabrication, and high‑level autonomy integration for competition in June 2025.
