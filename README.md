@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Ben – Multi‑Disciplinary Mechatronics Engineer & Maker
 
-I’m a junior Mechatronics Engineering student at Kennesaw State University, President & Mechanical Lead of the KSU Electric Vehicle Team, and an inventor who loves turning bold ideas into working prototypes. My “secret sauce”? A broad skillset spanning hardware, software, manufacturing, and research—so I can own every phase of development, from quick‑turn R&D to design‑for‑manufacturing.
+I’m a junior Mechatronics Engineering student at Kennesaw State University, President & Mechanical Lead of the KSU Electric Vehicle Team, and an inventor who loves turning unusual ideas into working prototypes. My specialty: A broad skillset spanning hardware, software, manufacturing, and research, so I can tackle every phase of development, from concept to execution. I have a vast experience in numerous fields with a very early start in STEM, and the intuition gained from over a decade (Yes, really!) of experience. 
+
 
 ---
 
@@ -74,7 +75,11 @@ Designed and manufactured a Low-cost universal rotary coil winding machine for c
 
 ---
 
+##  How do I have this much experience?
+
+I've always been fascinated with building things, electronics, and the combination of those two for as long as i can remember. Working on perfboards and diy kits from radioshack when i was in middle school, I learned as much as I physically could and did as much as I could even up until today. I have a passion and drive to make things and innovate, and it has fueled me for my entire life. 
+
 ## 
-      Hire Me! 
+      Hire Me! (I'm working now but seeking further opportunities in my field)
 - bg10389@gmail.com
 
